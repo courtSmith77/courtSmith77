@@ -4,7 +4,7 @@ Hi, I am Courtney, and welcome to my Github! I am a current Masters in Robotics 
 
 Check out my portfolio <a href="https://courtsmith77.github.io/">Here</a>
 
-Disclaimer: Both Github and Portfolio under construction check back for updates soon!
+Disclaimer: Both Github and Portfolio under construction so continue to check back for updates!
 
 
 <!--
