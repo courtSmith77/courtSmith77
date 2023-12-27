@@ -2,7 +2,7 @@
 
 Hi, I am Courtney, and welcome to my Github! I am a current Masters in Robotics student at Northwestern University. I graduated from the Georgia Institute of Technology with a BS in Biomedical Engineering in December 2022. I am passionate about combining my background in biomechanics with my growing knowledge in controls and machine learning to advance the quality of lives for individuals through robots.
 
-Check out my portfolio at _________
+Check out my portfolio <a href="https://courtsmith77.github.io/">Here</a>
 
 Disclaimer: Both Github and Portfolio under construction check back for updates soon!
 
